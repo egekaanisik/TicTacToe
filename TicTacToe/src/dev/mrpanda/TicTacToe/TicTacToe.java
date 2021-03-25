@@ -1,13 +1,3 @@
-/*
- * 		***********************************
- *      *      Welcome to TicTacToe!      *
- *		***********************************
- *		*      Creator: MrPandaDev        *
- *		***********************************
- *  	*           mrpanda.dev           *
- *		***********************************
- */
-
 package dev.mrpanda.TicTacToe;
 
 import java.awt.Color;
